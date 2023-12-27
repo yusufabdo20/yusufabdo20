@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Yusuf AbdulFatah 
-- 👀 I am a student of the Faculty of computer and AI in Helwan University, software engineer, flutter developer, and data analytics. I love sharing my experience with others. 
+- 👀 I graduated from the Faculty of Computer and AI at Helwan University, software engineer, flutter developer, and data analytics. I love sharing my experience with others. 
 - My expertise lies in designing user-friendly interfaces and implementing complex functionality using Dart and Flutter framework. 
 - I am committed to staying up-to-date with the latest developments in the Flutter community and always strive to improve my skills. 
-- In my free time, I love contributing to open-source Flutter projects and experimenting with new ideas. 
+- I love contributing to open-source Flutter projects and experimenting with new ideas in my free time. 
 - Feel free to check out my Github profile to see some of my Flutter-based projects and contributions.
+-----------------------------------------------------------------------------------------------
 
 
 <!---
