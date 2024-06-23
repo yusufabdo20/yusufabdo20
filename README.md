@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Native Mobile development , JS**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/yusufafatah](https://linktr.ee/yusufafatah)
+<!--- 👨‍💻 All of my projects are available at [https://linktr.ee/yusufafatah](https://linktr.ee/yusufafatah) -->
 
 - 💬 Ask me about **Flutter , Software engineering**
 
