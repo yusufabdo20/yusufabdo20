@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working in **NTG clarity as Mobile Apps Developer**
 
-- 🌱 I’m currently learning **Native Mobile development , JS**
+- 🌱 I’m currently learning **Native Mobile development , Nodejs as a Backend**
 
 <!--- 👨‍💻 All of my projects are available at [https://linktr.ee/yusufafatah](https://linktr.ee/yusufafatah) -->
 
