@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **yusufafatah@gmail.com**
 
-- 📄 Know about my experiences [https://linktr.ee/yusufafatah](https://linktr.ee/yusufafatah)
+- 📄 Know about my experiences [((https://yusufafatah.netlify.app/))](https://yusufafatah.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
