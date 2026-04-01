@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/yusufabdo21" target="blank"><img src="https://img.shields.io/twitter/follow/yusufabdo21?logo=twitter&style=for-the-badge" alt="yusufabdo21" /></a> </p>
 
-- 🔭 I’m currently working in **NTG clarity as Mobile Apps Developer**
+- 🔭 I’m currently working in **ELM as Mobile Apps Developer**
 
 - 🌱 I’m currently learning **Native Mobile development , Nodejs as a Backend**
 
