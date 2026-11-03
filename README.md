@@ -120,20 +120,13 @@ I believe in sharing knowledge and helping developers grow.
 </p>
 
 ---
-
 ### 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yusufabdo20&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufabdo20&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yusufabdo20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufabdo20&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufabdo20&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-<strong>Building scalable solutions. Engineering better experiences. Sharing knowledge.</strong>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufabdo20&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
